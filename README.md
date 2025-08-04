@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamodya Kodagoda</h1>
-<h3 align="center">UI/UX Designer | Full-Stack Developer | Web Developer</h3>
+<h3 align="center">UI/UX Designer | Full-Stack Developer </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
