@@ -11,7 +11,6 @@
 <h3 align="center" style="color:#3B82F6;">🌊 Navigating the Digital Ocean with Code</h3>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?Chamodya11=Chamodya11&label=Profile%20Views&style=for-the-badge&color=3B82F6&labelColor=1E3A8A" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Chamodya11?label=Followers&style=for-the-badge&color=60A5FA&labelColor=1E3A8A" alt="Followers" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-3B82F6?style=for-the-badge&labelColor=1E3A8A" alt="Status" />
 </div>
