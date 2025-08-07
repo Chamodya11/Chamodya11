@@ -18,7 +18,7 @@
 ---
 
 ```typescript
-const developer: Developer = {
+const UI/UX Designer {
   name: "Chamodya Kodagoda",
   location: "Kandy, Sri Lanka ",
   email: "chamodhyakodagoda@gmail.com",
